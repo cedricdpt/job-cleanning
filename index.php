@@ -49,10 +49,12 @@
 
 </div>
 
-<section class="description">
+<section>
+ <div class="block-description">
  <h2>job-cleanning</h2>
  <h3>la premiére plateforme de recrutement pour le secteur de la proprepté</h3>
  <p>Nous vous apportons l'aide </p>
+ </div>
 </section>
 
 

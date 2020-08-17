@@ -23,14 +23,17 @@ body{
 .navbar{
     padding-left: 50px ;
 	border-bottom: solid 1px #333 ;
+	display: flex;
+	justify-content: center;
 	}
 .navbar a{
+	
 	font-weight: bold;
 	color: #333 !important;
 	font-family: sans-serif, roboto;
 	text-transform: uppercase;
-	letter-spacing: 3px;
-	font-size: 250%;
+	letter-spacing: 1px;
+	font-size: 200%;
 }
 .navbar a span{
 	color: #59c6ff;
@@ -102,13 +105,13 @@ body{
 }
 
 /*section description*/
-.description{
-    height: 250px;
+.block-description{
+    height: 150%;
     width: auto;
     background-color: #f3f3f3;
     color: #333;
     text-align: center;
 }
-.description p{
+.block-description p{
 	font-size: 1em;
 }
