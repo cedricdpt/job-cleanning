@@ -14,23 +14,23 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/agent de nettoyage.jpg" alt="Los Angeles">
+      <img src="images/lustreuse agent2.png" alt="agent de nettoyage">
       <div class="carousel-caption">
-    <h3>Los Angeles</h3>
-    <p>We had such a great time in LA!</p>
+    <h3>candidats</h3>
+    <p>devenez un heros du quotidien</p>
     <button type="button" class="btn btn-link">inscription</button>
   </div>
     </div>
     <div class="carousel-item">
-      <img src="images/laveur de vitre.jpg" alt="Chicago">
+      <img src="images/laveur de vitre.jpg" alt="laveur de vitre">
       <div class="carousel-caption">
-    <h3>Los Angeles</h3>
-    <p>We had such a great time in LA!</p>
+    <h3>professionnels</h3>
+    <p>trouvez vos futur collaborateurs rapidement</p>
     <button type="button" class="btn btn-link">inscription</button>
   </div>
     </div>
      <div class="carousel-item">
-      <img src="images/autolaveuse.jpg" alt="Chicago">
+      <img src="images/nettoyage autolaveuse.png" alt="Chicago">
       <div class="carousel-caption">
     <h3>Los Angeles</h3>
     <p>We had such a great time in LA!</p>
