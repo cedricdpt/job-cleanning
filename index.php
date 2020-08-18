@@ -57,6 +57,31 @@
  </div>
 </section>
 
+    <section>
+<div class="caption-block"> 
+  <div class="block_candidat">
+<h3>candidats</h3>
+<p>Agent qualifiés, encadrement, manager ?<br>Ou vous souhaitez commencer une carrière dans le nettoyage <br>
+Jobcleanning vous mes en relation avec les professionnels du secteur. </p>
+<a class="btn btn-primary" href="#" role="button">en savoir plus!</a>
+  </div>
+
+  <div class="block_professionnel">
+<h3>professionnels</h3>
+<p>Agent qualifiés, encadrement, manager ?<br>Ou vous souhaitez commencer une carrière dans le nettoyage <br>
+Jobcleanning vous mes en relation avec les professionnels du secteur. </p>
+<a class="btn btn-primary" href="#" role="button">en savoir plus!</a>
+  </div>
+
+  <div class="block_formation">
+<h3>formations</h3>
+<p>Agent qualifiés, encadrement, manager ?<br>Ou vous souhaitez commencer une carrière dans le nettoyage <br>
+Jobcleanning vous mes en relation avec les professionnels du secteur. </p>
+<a class="btn btn-primary" href="#" role="button">en savoir plus!</a>
+  </div>
+</div>
+    </section>
+
 
 
 

@@ -106,7 +106,7 @@ body{
 
 /*section description*/
 .block-description{
-    height: 150%;
+    height: 250%;
     width: auto;
     background-color: #f3f3f3;
     color: #333;
@@ -114,4 +114,7 @@ body{
 }
 .block-description p{
 	font-size: 1em;
+}
+.caption-block{
+	display: flexbox;
 }
