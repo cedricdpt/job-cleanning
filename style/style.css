@@ -105,22 +105,24 @@ body{
 }
 
 /*section description*/
+
 .block-description{
-    height: 250%;
+    height: 150%;
     width: auto;
     background-color: #f3f3f3;
     color: #333;
     text-align: center;
 }
+
 .block-description p{
 	font-size: 1em;
 }
-.caption-block{
-	display: flexbox;
+.principale-block{
+	display: flex;
 	
 }
-.caption-block h3{
-	font-size: 100%;
+.principale-block h3{
+	font-size: 75%;
 	text-transform: uppercase;
 	font-weight: bold;
 }

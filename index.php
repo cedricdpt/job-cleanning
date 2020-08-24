@@ -1,7 +1,7 @@
 
 <?php include ("core/header.php");?>
 
-
+<section>
 <div id="moncarousel" class="carousel slide" data-ride="carousel">
 
   <!-- Indicators -->
@@ -48,6 +48,7 @@
   </a>
 
 </div>
+</section>
 
 <section>
  <div class="block-description">
@@ -55,10 +56,11 @@
  <h3>la premiére plateforme de recrutement pour le secteur de la proprepté</h3>
  <p>Nous vous apportons l'aide </p>
  </div>
-</section>
+ </section>
 
-    <section>
-<div class="caption-block"> 
+<section>    
+<div class="principale-block"> 
+
   <div class="block_candidat">
 <h3>candidats</h3>
 <p>Agent qualifiés, encadrement, manager ?<br>Ou vous souhaitez commencer une carrière dans le nettoyage <br>
@@ -80,7 +82,7 @@ Jobcleanning vous mes en relation avec les professionnels du secteur. </p>
 <a class="btn btn-primary" href="#" role="button">en savoir plus!</a>
   </div>
 </div>
-    </section>
+</section>   
 
 
 
