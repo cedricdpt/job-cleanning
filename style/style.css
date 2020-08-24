@@ -119,10 +119,38 @@ body{
 }
 .principale-block{
 	display: flex;
-	
+	align-items:center;
+	justify-content: space-around;
+     	
 }
 .principale-block h3{
 	font-size: 75%;
 	text-transform: uppercase;
 	font-weight: bold;
+}
+.block_candidat{
+	height: 300px;
+	width: 450px;
+	text-align: center;
+	border: solid 2px #333;
+	border-radius: 15px;
+	box-shadow: 3px 3px 10px #333;
+}
+
+.block_professionnel{
+	height: 300px;
+	width: 450px;
+	text-align: center;
+	border: solid 2px #333;
+	border-radius: 15px;
+	box-shadow: 3px 3px 10px #333;
+}
+
+.block_formation{
+	height: 300px;
+	width: 450px;
+	text-align: center;
+	border: solid 2px #333;
+	border-radius: 15px;
+	box-shadow: 3px 3px 10px #333;
 }
