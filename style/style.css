@@ -117,4 +117,10 @@ body{
 }
 .caption-block{
 	display: flexbox;
+	
+}
+.caption-block h3{
+	font-size: 100%;
+	text-transform: uppercase;
+	font-weight: bold;
 }
