@@ -62,6 +62,7 @@
 <div class="principale-block"> 
 
   <div class="block_candidat">
+  <img src="images/nettoyageuse.png" class="img-fluid img-thumbnail" style="width:25%; height:auto" alt="icon agent">
 <h3>candidats</h3>
 <p>Agent qualifiés, encadrement, manager ?<br>Ou vous souhaitez commencer une carrière dans le nettoyage <br>
 Jobcleanning vous mes en relation avec les professionnels du secteur. </p>
