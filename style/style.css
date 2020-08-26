@@ -126,6 +126,8 @@ body{
 	font-size: 1em;
 }
 .principale-block{
+	margin-top: 20px;
+	margin-bottom: 10px;
 	display: flex;
 	align-items:center;
 	justify-content: space-around;
@@ -137,7 +139,7 @@ body{
 	font-weight: bold;
 	padding-top: 5px;
 }
-.block_candidat{
+.block_secondaire{
 	height: auto;
 	width: 450px;
 	text-align: center;
@@ -148,25 +150,26 @@ body{
 		
 }
 
-.block_professionnel{
-	height: auto;
-	width: 450px;
-	text-align: center;
-	border: solid 1px #333;
-	border-radius: 15px;
-	box-shadow: 3px 3px 10px #333;
-	padding: 20px 20px 20px 20px;
-		
+.block_footer{
+	height: 200px;
+	background-color: #f3f3f3;
+	border-top: solid 1px #333 ;
+	padding-left: 50px;
+	padding-top: 10px;
 }
 
-.block_formation{
-	height: auto;
-	width: 450px;
-	text-align: center;
-	border: solid 1px #333;
-	border-radius: 15px;
-	box-shadow: 3px 3px 10px #333;
-	padding: 20px 20px 20px 20px;
-		
-	
+.block_menu h2{
+	color: #59c6ff !important;
+	font-size: 1.5em;
+	font-weight: bold;
+
+}
+.social_network{
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 50px;
+
+}
+.social_network img{
+	margin-right: 10px;
 }
