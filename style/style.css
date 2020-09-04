@@ -119,6 +119,7 @@ body{
 .block-description h2{
 	color: #59c6ff;
 	text-transform: uppercase;
+	letter-spacing: 4px;
 	font-weight: bold;
 }
 
@@ -134,10 +135,12 @@ body{
     height: 360px; 	
 }
 .principale-block h3{
-	font-size: 75%;
+	font-size: 125%;
 	text-transform: uppercase;
+	letter-spacing: 4px;
 	font-weight: bold;
 	padding-top: 5px;
+	color: #59c6ff;
 }
 .block_secondaire{
 	height: auto;
@@ -149,10 +152,15 @@ body{
 	padding: 20px 20px 20px 20px;
 		
 }
+.block_secondaire li{
+	list-style-type:none;
+	text-align: left;
+	margin-left: 50px;
+	} 
 
 .block_footer{
 	height: 200px;
-	background-color: #f3f3f3;
+	background-color: #fff;
 	border-top: solid 1px #333 ;
 	padding-left: 50px;
 	padding-top: 10px;

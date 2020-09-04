@@ -62,26 +62,38 @@
 <div class="principale-block"> 
 
   <div class="block_secondaire">
-  <img src="images/nettoyageuse.png" class="img-fluid img-thumbnail" style="width:25%; height:auto" alt="icon agent">
+  <img src="images/nettoyageuse.png" class="img-fluid img-thumbnail" style="width:15%; height:auto" alt="icon agent">
 <h3>candidats</h3>
-<p>Agent qualifiés, encadrement, manager ?<br>Ou vous souhaitez commencer une carrière dans le nettoyage <br>
-Jobcleanning vous mes en relation avec les professionnels du secteur. </p>
+<ul>
+<li>inscription gratuite</li>
+<li>accès aux annonces</li>
+<li>accès aux formations</li>
+<li>votre CV en ligne</li>
+</ul>
 <a class="btn btn-primary" href="#" role="button">en savoir plus!</a>
   </div>
 
   <div class="block_secondaire">
-  <img src="images/moquette icon.png" class="img-fluid img-thumbnail" style="width:25%; height:auto" alt="icon agent">
+  <img src="images/moquette icon.png" class="img-fluid img-thumbnail" style="width:15%; height:auto" alt="icon agent">
 <h3>professionnels</h3>
-<p>Agent qualifiés, encadrement, manager ?<br>Ou vous souhaitez commencer une carrière dans le nettoyage <br>
-Jobcleanning vous mes en relation avec les professionnels du secteur. </p>
+<ul>
+<li>Dépose d'annonces</li>
+<li>accès a la base de donnée des profils</li>
+<li>accès aux centres de formations</li>
+<li>accès aux appels d'offres</li>
+</ul>
 <a class="btn btn-primary" href="#" role="button">en savoir plus!</a>
   </div>
 
   <div class="block_secondaire">
-<img src="images/monobrosse icon.png" class="img-fluid img-thumbnail" style="width:25%; height:auto" alt="icon agent">
+<img src="images/monobrosse icon.png" class="img-fluid img-thumbnail" style="width:15%; height:auto" alt="icon agent">
 <h3>formations</h3>
-<p>Agent qualifiés, encadrement, manager ?<br>Ou vous souhaitez commencer une carrière dans le nettoyage <br>
-Jobcleanning vous mes en relation avec les professionnels du secteur. </p>
+<ul>
+<li>formations en ligne</li>
+<li>accès aux centres de formations local</li>
+<li>formations en entreprise</li>
+<li>mise en avant de votre centre</li>
+</ul>
 <a class="btn btn-primary" href="#" role="button">en savoir plus!</a>
   </div>
 </div>
