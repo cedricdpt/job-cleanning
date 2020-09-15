@@ -3,52 +3,31 @@
 
 <section>
 <div id="moncarousel" class="carousel slide" data-ride="carousel">
-
-  <!-- Indicators -->
-  <ul class="carousel-indicators">
+  <ol class="carousel-indicators">
     <li data-target="#moncarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#moncarousel" data-slide-to="1"></li>
+    <li data-target="#moncarousel data-slide-to="1"></li>
     <li data-target="#moncarousel" data-slide-to="2"></li>
-  </ul>
-
-  <!-- The slideshow -->
+  </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/lustreuse agent2.png" alt="agent de nettoyage">
-      <div class="carousel-caption">
-    <h3>candidats</h3>
-    <p>devenez un heros du quotidien</p>
-    <button type="button" class="btn btn-link">inscription</button>
-  </div>
+      <img src="images/bandeau caroussel_1.png" class="d-block w-100" alt="le job de vos envies">
     </div>
     <div class="carousel-item">
-      <img src="images/laveur de vitre.jpg" alt="laveur de vitre">
-      <div class="carousel-caption">
-    <h3>professionnels</h3>
-    <p>trouvez vos futur collaborateurs rapidement</p>
-    <button type="button" class="btn btn-link">inscription</button>
-  </div>
+      <img src="images/bandeau caroussel_2.png" class="d-block w-100" alt="...">
     </div>
-     <div class="carousel-item">
-      <img src="images/nettoyage autolaveuse.png" alt="Chicago">
-      <div class="carousel-caption">
-    <h3>Los Angeles</h3>
-    <p>We had such a great time in LA!</p>
-    <button type="button" class="btn btn-link">inscription</button>
-  </div>
+    <div class="carousel-item">
+      <img src="images/bandeau caroussel_1.png" class="d-block w-100" alt="...">
     </div>
   </div>
-
-  <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#moncarousel" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
+  <a class="carousel-control-prev" href="#moncarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#moncarousel" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
+  <a class="carousel-control-next" href="#moncarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
   </a>
-
 </div>
-</section>
 
 <section>
  <div class="block-description">
